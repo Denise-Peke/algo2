@@ -1,0 +1,10 @@
+aula;examinar;_;d:pokebola:Hay una pokebola en el piso
+aula;examinar;_;d:puerta:Hay una puerta vieja
+aula;examinar;_;d:cajita:hay una cajita en el piso
+puerta;abrir;_;m:_:La puerta está cerrada con llave
+pokebola;abrir;_;d:_:no hay nada dentro de la pokebola
+pokebola;abrir;_;e:pokebola:No necesitas mas la pokebola
+cajita;abrir;_;d:llave:hay una llave dentro de la cajita
+cajita;abrir;_;e:cajita:No necesitas mas la cajita
+llave;abrir;puerta;r:puerta-abierta:La puerta se abre
+puerta-abierta;salir;_;g:_:Ganaste, pudiste escapar

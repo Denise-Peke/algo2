@@ -1,0 +1,6 @@
+aula;Una habitación de la que no podes escapar;false
+pokebola;Una poquebola roja y blanca;true
+cajita;una cajita de color negra;true
+llave;una llave color amarilla y marron;true
+puerta;La puerta de salida;false
+puerta-abierta;La puerta está abierta, podes salir;false
